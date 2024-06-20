@@ -1,0 +1,14 @@
+#!/bin/bash --login
+#SBATCH --job-name=quartus
+#SBATCH --account=project01
+#SBATCH --ntasks=1
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=1
+#SBATCH --time=01:30:00
+#SBATCH --mem-per-cpu=3G
+#SBATCH --partition=ophelia
+#SBATCH --out=%x.out
+
+module load quartus/13.0sp1
+
+make

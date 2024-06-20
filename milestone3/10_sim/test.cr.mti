@@ -1,0 +1,759 @@
+C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module imem
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(4): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(4): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(5): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(5): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(8): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(8): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(8): (vlog-2163) Macro `SIZE_IMEM is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(11): (vlog-2163) Macro `SIZE_IMEM is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/imem.sv(12): (vlog-2163) Macro `FILE_INST_HEX is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 16.0 17.0 18.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/adder.sv {0 {vlog -work work -sv {C:\232\Cautrucmaytinh\milestone3\00_src\adder.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder
+** Error: C:\232\Cautrucmaytinh\milestone3\00_src\adder.sv(2): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:\232\Cautrucmaytinh\milestone3\00_src\adder.sv(2): Packed dimension must specify a range.
+** Error: C:\232\Cautrucmaytinh\milestone3\00_src\adder.sv(3): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:\232\Cautrucmaytinh\milestone3\00_src\adder.sv(3): Packed dimension must specify a range.
+** Error: C:\232\Cautrucmaytinh\milestone3\00_src\adder.sv(4): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:\232\Cautrucmaytinh\milestone3\00_src\adder.sv(4): Packed dimension must specify a range.
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 13.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/branch_taken.sv {1 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/branch_taken.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module branch_taken
+
+Top level modules:
+	branch_taken
+
+} {} {}} C:/232/Cautrucmaytinh/milestone3/00_src/mux4_2sel.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/mux4_2sel.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4_2sel
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4_2sel.sv(2): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4_2sel.sv(2): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4_2sel.sv(5): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4_2sel.sv(5): Packed dimension must specify a range.
+
+} {4.0 5.0 6.0 8.0 9.0 10.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module brcomp
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(3): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(3): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(4): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(4): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(11): (vlog-2163) Macro `TRUE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(11): near ":": syntax error, unexpected ':'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(11): (vlog-2163) Macro `FALSE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(15): (vlog-2163) Macro `TRUE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(15): near ":": syntax error, unexpected ':'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(15): (vlog-2163) Macro `FALSE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(17): (vlog-2163) Macro `TRUE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(17): near ":": syntax error, unexpected ':'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brcomp.sv(17): (vlog-2163) Macro `FALSE is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 16.0 17.0 19.0 20.0 21.0 22.0 24.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2input
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(2): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(2): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(3): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(3): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(5): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(5): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(10): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(10): near ":": syntax error, unexpected ':'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux2input.sv(11): (vlog-2163) Macro `DATA_1 is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lsu
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(6): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(6): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(7): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(7): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(8): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(8): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(10): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(10): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(11): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(11): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(12): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(12): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(13): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(13): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(14): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(14): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(15): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(15): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(16): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(16): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(17): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(17): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(18): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(18): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(19): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(19): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(20): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(20): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(21): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(21): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(22): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(22): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(25): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(25): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(25): (vlog-2163) Macro `SIZE_DMEM is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(28): (vlog-2163) Macro `SIZE_DMEM is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(45): (vlog-2163) Macro `SIZE_DMEM is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(49): (vlog-2163) Macro `IO_LCD is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(49): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(50): (vlog-2163) Macro `IO_LEDG is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(50): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(51): (vlog-2163) Macro `IO_LEDR is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(51): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(52): (vlog-2163) Macro `IO_HEX7 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(52): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(53): (vlog-2163) Macro `IO_HEX6 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(53): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(54): (vlog-2163) Macro `IO_HEX5 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(54): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(55): (vlog-2163) Macro `IO_HEX4 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(55): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(56): (vlog-2163) Macro `IO_HEX3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(56): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(57): (vlog-2163) Macro `IO_HEX2 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(57): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(58): (vlog-2163) Macro `IO_HEX1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(58): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(59): (vlog-2163) Macro `IO_HEX0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(59): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(62): (vlog-2163) Macro `IO_SW is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(62): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(62): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(62): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(63): (vlog-2163) Macro `IO_KEY is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(63): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(63): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/lsu.sv(63): near "]": syntax error, unexpected ']'
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0 18.0 20.0 21.0 23.0 24.0 26.0 27.0 29.0 30.0 32.0 33.0 35.0 36.0 38.0 39.0 41.0 42.0 44.0 45.0 47.0 48.0 50.0 51.0 53.0 54.0 56.0 57.0 58.0 59.0 60.0 61.0 62.0 63.0 65.0 66.0 68.0 69.0 71.0 72.0 74.0 75.0 77.0 78.0 80.0 81.0 83.0 84.0 86.0 87.0 89.0 90.0 92.0 93.0 95.0 96.0 98.0 99.0 101.0 102.0 104.0 105.0 106.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/flipflop.sv {1 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/flipflop.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module flipflop
+
+Top level modules:
+	flipflop
+
+} {} {}} C:/232/Cautrucmaytinh/milestone3/00_src/func.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/func.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(17): (vlog-2163) Macro `FALSE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(17): near ":": syntax error, unexpected ':'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(17): (vlog-2163) Macro `TRUE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(19): (vlog-2163) Macro `TRUE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(19): near ";": syntax error, unexpected ';'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(21): (vlog-2163) Macro `FALSE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(21): near ";": syntax error, unexpected ';'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(23): (vlog-2163) Macro `TRUE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(23): near ":": syntax error, unexpected ':'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/func.sv(23): (vlog-2163) Macro `FALSE is undefined.
+
+
+} {3.0 4.0 5.0 7.0 8.0 9.0 10.0 12.0 13.0 15.0 16.0 18.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module immgen
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(2): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(2): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(3): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(3): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(7): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(7): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(9): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(10): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(12): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(12): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(20): (vlog-2163) Macro `IL_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(21): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(21): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(29): (vlog-2163) Macro `IJ_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(34): (vlog-2163) Macro `IE_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(39): (vlog-2163) Macro `S_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(44): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(45): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(45): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(53): (vlog-2163) Macro `J_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(58): (vlog-2163) Macro `UL_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/immgen.sv(58): (vlog-2163) Macro `UA_OPCODE is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 16.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4input
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(2): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(2): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(3): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(3): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(4): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(4): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(5): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(5): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(7): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(7): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(12): (vlog-2163) Macro `DATA_00 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(12): near ":": syntax error, unexpected ':'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(13): (vlog-2163) Macro `DATA_01 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(14): (vlog-2163) Macro `DATA_10 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/mux4input.sv(15): (vlog-2163) Macro `DATA_11 is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0 18.0 20.0 21.0 23.0 24.0 25.0 26.0 27.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(3): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(3): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(4): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(4): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(5): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(5): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(7): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(7): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(11): (vlog-2163) Macro `ALU_ADD_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(11): near ":": syntax error, unexpected ':'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(12): (vlog-2163) Macro `ALU_SUB_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(13): (vlog-2163) Macro `ALU_XOR_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(14): (vlog-2163) Macro `ALU_OR_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(15): (vlog-2163) Macro `ALU_AND_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(16): (vlog-2163) Macro `ALU_SLL_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(17): (vlog-2163) Macro `ALU_SRL_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(18): (vlog-2163) Macro `ALU_SRA_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(19): (vlog-2163) Macro `ALU_SLT_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(20): (vlog-2163) Macro `ALU_SLTU_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/alu.sv(21): (vlog-2163) Macro `ALU_UI_OP is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0 18.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/forwarding_unit.sv {1 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/forwarding_unit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} C:/232/Cautrucmaytinh/milestone3/00_src/define.sv {1 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/define.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/232/Cautrucmaytinh/milestone3/00_src/HazardDetector.sv {1 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/HazardDetector.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HazardDetector
+
+Top level modules:
+	HazardDetector
+
+} {} {}} C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module brunit
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(5): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(5): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(14): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(14): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(14): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(14): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(15): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(15): near ",": syntax error, unexpected ','
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(15): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(15): (vlog-2163) Macro `DATA_1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(16): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(16): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(16): (vlog-2163) Macro `DATA_1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(17): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(17): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(17): (vlog-2163) Macro `DATA_1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(18): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(18): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(18): (vlog-2163) Macro `DATA_1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(19): (vlog-2163) Macro `J_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(19): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(20): (vlog-2163) Macro `IJ_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(20): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/brunit.sv(21): (vlog-2163) Macro `DATA_0 is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 27.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 40.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ctrl_unit
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(2): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(2): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(14): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(14): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(14): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(14): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(15): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(15): near ",": syntax error, unexpected ','
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(15): (vlog-2163) Macro `ENABLE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(16): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(16): (vlog-2163) Macro `ENABLE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(17): (vlog-2163) Macro `DISABLE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(20): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(20): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(21): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(21): (vlog-2163) Macro `DATA_1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(22): (vlog-2163) Macro `J_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(22): (vlog-2163) Macro `DATA_1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(23): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(27): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(27): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(28): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(28): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(29): (vlog-2163) Macro `DATA_1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(33): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(33): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(33): (vlog-2163) Macro `FUNCT3 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(33): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(34): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(34): near ",": syntax error, unexpected ','
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(34): (vlog-2163) Macro `FUNCT7 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(34): (vlog-2163) Macro `ALU_ADD_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(34): (vlog-2163) Macro `ALU_SUB_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(35): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(35): (vlog-2163) Macro `ALU_SLL_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(36): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(36): (vlog-2163) Macro `ALU_SLT_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(37): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(37): (vlog-2163) Macro `ALU_SLTU_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(38): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(38): (vlog-2163) Macro `ALU_XOR_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(39): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(39): (vlog-2163) Macro `FUNCT7 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(39): (vlog-2163) Macro `ALU_SRL_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(39): (vlog-2163) Macro `ALU_SRA_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(40): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(40): (vlog-2163) Macro `ALU_OR_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(41): (vlog-2163) Macro `R_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(41): (vlog-2163) Macro `ALU_AND_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(42): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(42): (vlog-2163) Macro `ALU_ADD_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(43): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(43): (vlog-2163) Macro `ALU_SLL_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(44): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(44): (vlog-2163) Macro `ALU_SLT_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(45): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(45): (vlog-2163) Macro `ALU_SLTU_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(46): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(46): (vlog-2163) Macro `ALU_XOR_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(47): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(47): (vlog-2163) Macro `FUNCT7 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(47): (vlog-2163) Macro `ALU_SRL_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(47): (vlog-2163) Macro `ALU_SRA_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(48): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(48): (vlog-2163) Macro `ALU_OR_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(49): (vlog-2163) Macro `I_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(49): (vlog-2163) Macro `ALU_AND_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(50): (vlog-2163) Macro `ALU_ADD_OP is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(53): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(53): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(53): (vlog-2163) Macro `S_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(53): (vlog-2163) Macro `ENABLE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(53): (vlog-2163) Macro `DISABLE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(55): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(55): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(56): (vlog-2163) Macro `IL_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(56): (vlog-2163) Macro `DATA_1 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(57): (vlog-2163) Macro `DATA_0 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(60): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(60): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(61): (vlog-2163) Macro `IL_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(61): (vlog-2163) Macro `DATA_01 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(62): (vlog-2163) Macro `J_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(62): (vlog-2163) Macro `DATA_10 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(63): (vlog-2163) Macro `IJ_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(63): (vlog-2163) Macro `DATA_10 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(64): (vlog-2163) Macro `DATA_00 is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(67): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(67): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(67): (vlog-2163) Macro `S_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(67): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(67): (vlog-2163) Macro `B_OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(67): (vlog-2163) Macro `DISABLE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/ctrl_unit.sv(67): (vlog-2163) Macro `ENABLE is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0 18.0 19.0 20.0 21.0 22.0 23.0 24.0 25.0 26.0 28.0 29.0 30.0 31.0 32.0 33.0 34.0 35.0 36.0 37.0 38.0 39.0 41.0 42.0 43.0 44.0 45.0 46.0 47.0 48.0 50.0 51.0 53.0 54.0 56.0 57.0 58.0 59.0 60.0 61.0 62.0 63.0 64.0 65.0 66.0 67.0 68.0 69.0 70.0 71.0 72.0 73.0 74.0 75.0 76.0 77.0 78.0 79.0 80.0 81.0 82.0 83.0 84.0 85.0 86.0 87.0 88.0 89.0 90.0 91.0 92.0 93.0 94.0 95.0 96.0 97.0 98.0 99.0 100.0 101.0 102.0 103.0 104.0 105.0 106.0 107.0 108.0 109.0 110.0 111.0 112.0 113.0 114.0 115.0 116.0 117.0 118.0 119.0 120.0 121.0 122.0 123.0 124.0 125.0 126.0 127.0 128.0 129.0 130.0 131.0 132.0 133.0 135.0 136.0 137.0 138.0 139.0 140.0 141.0 142.0 144.0 145.0 146.0 147.0 148.0 149.0 150.0 151.0 153.0 154.0 155.0 156.0 157.0 158.0 159.0 160.0 161.0 162.0 163.0 164.0 165.0 166.0 167.0 168.0 170.0 171.0 172.0 173.0 174.0 175.0 176.0 177.0 178.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(6): (vlog-2163) Macro `VECTOR_ADDR is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(6): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(7): (vlog-2163) Macro `VECTOR_ADDR is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(7): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(8): (vlog-2163) Macro `VECTOR_ADDR is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(8): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(9): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(9): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(10): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(10): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(11): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(11): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(14): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(14): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/regfile.sv(14): (vlog-2163) Macro `SIZE_REGS is undefined.
+
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0 18.0 20.0 21.0 23.0 24.0 26.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module pipeline
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(5): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(5): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(6): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(6): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(8): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(8): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(9): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(9): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(10): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(10): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(11): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(11): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(12): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(12): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(13): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(13): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(14): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(14): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(15): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(15): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(16): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(16): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(17): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(17): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(18): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(18): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(29): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/pipeline.sv(29): Packed dimension must specify a range.
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0 18.0 20.0 21.0 23.0 24.0 26.0 27.0 29.0 30.0 32.0 33.0 35.0 36.0 38.0 39.0 41.0 42.0 44.0 45.0 46.0} {}} C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv {0 {vlog -work work -sv C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_transfer
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(13): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(13): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(14): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(14): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(16): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(16): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(17): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(17): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(18): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(18): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(19): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(19): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(20): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(20): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(21): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(21): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(22): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(22): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(23): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(23): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(24): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(24): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(25): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(25): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(26): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(26): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(27): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(27): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(45): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(46): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(47): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(48): (vlog-2163) Macro `VECTOR_ADDR is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(49): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(57): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(58): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(59): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(60): (vlog-2163) Macro `VECTOR_ADDR is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(67): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(68): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(69): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(70): (vlog-2163) Macro `VECTOR_ADDR is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(78): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(78): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(79): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(79): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(85): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(85): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(88): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(88): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(113): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(113): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(116): (vlog-2163) Macro `OPCODE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(116): near "]": syntax error, unexpected ']'
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(169): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(169): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(175): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(175): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(179): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(179): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(181): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(181): Packed dimension must specify a range.
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(212): (vlog-2163) Macro `VECTOR_RANGE is undefined.
+
+** Error: C:/232/Cautrucmaytinh/milestone3/00_src/data_transfer.sv(212): Packed dimension must specify a range.
+
+} {4.0 5.0 6.0 8.0 9.0 11.0 12.0 14.0 15.0 17.0 18.0 20.0 21.0 23.0 24.0 26.0 27.0 29.0 30.0 32.0 33.0 35.0 36.0 38.0 39.0 41.0 42.0 44.0 45.0 47.0 48.0 49.0 50.0 51.0 52.0 53.0 54.0 55.0 56.0 57.0 58.0 59.0 60.0 61.0 62.0 63.0 64.0 65.0 66.0 67.0 68.0 69.0 70.0 71.0 72.0 73.0 74.0 76.0 77.0 79.0 80.0 82.0 83.0 85.0 86.0 88.0 89.0 91.0 92.0 94.0 95.0 97.0 98.0 100.0 101.0 103.0 104.0 105.0} {}}

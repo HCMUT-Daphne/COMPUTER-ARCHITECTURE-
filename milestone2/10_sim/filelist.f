@@ -1,0 +1,14 @@
+../00_src/define.sv
+../00_src/func.sv
+../00_src/adder.sv
+../00_src/alu.sv
+../00_src/brcomp.sv
+../00_src/ctrl_unit.sv
+../00_src/imem.sv
+../00_src/immgen.sv
+../00_src/lsu.sv
+../00_src/mux2input.sv
+../00_src/mux4input.sv
+../00_src/pc.sv
+../00_src/regfile.sv
+../00_src/singlecycle.sv

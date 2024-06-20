@@ -1,0 +1,29 @@
+#!/bin/bash --login
+#SBATCH --job-name=checksyntax
+#SBATCH --account=comp0u09
+#SBATCH --ntasks=1
+#SBATCH --nodes=1
+#SBATCH --cpus-per-task=1
+#SBATCh --time=00:01:00
+#SBATCH --mem-per-cpu=1G
+#SBATCH --partition=ophelia
+#SBATCH --out=checksyntax.out
+
+module load xcelium
+
+xrun -hal -sv -f filelist.f
+
+
+#xrun -hal -sv ../00_src/define.sv ../00_src/adder.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/mux2input.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/mux4input.sv
+
+#xrun -hal -sv ../00_src/define.sv ../00_src/func.sv ../00_src/imem.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/regfile.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/immgen.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/func.sv ../00_src/alu.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/lsu.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/func.sv ../00_src/brcomp.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/ctrl_unit.sv
+#xrun -hal -sv ../00_src/define.sv ../00_src/singlecycle.sv
+

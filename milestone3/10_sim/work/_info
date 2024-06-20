@@ -1,0 +1,94 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+vbranch_taken
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 36Ff=Dha4<9zZXMZQ>n6L0
+Z3 Iz[NoGGjgJ8zF;dN[XP<<e1
+Z4 V=YCoMbeB_noi:=XNaA>O^1
+Z5 !s105 branch_taken_sv_unit
+S1
+Z6 dC:\232\Cautrucmaytinh\milestone3\10_sim
+Z7 w1715164264
+Z8 8C:/232/Cautrucmaytinh/milestone3/00_src/branch_taken.sv
+Z9 FC:/232/Cautrucmaytinh/milestone3/00_src/branch_taken.sv
+L0 1
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s90 -reportprogress|300|-work|work|-sv|C:/232/Cautrucmaytinh/milestone3/00_src/branch_taken.sv|
+Z12 o-work work -sv -O0
+Z13 !s108 1715330008.776000
+Z14 !s107 C:/232/Cautrucmaytinh/milestone3/00_src/branch_taken.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vflipflop
+R1
+Z15 !s100 ]VCHi>U[hC2=@OX`6jH;@1
+Z16 Ii]VSfK7R1bLfE_>lTKIjW0
+Z17 VcIFljiWCf[KWCmYDjchW]0
+Z18 !s105 flipflop_sv_unit
+S1
+R6
+Z19 w1714719884
+Z20 8C:/232/Cautrucmaytinh/milestone3/00_src/flipflop.sv
+Z21 FC:/232/Cautrucmaytinh/milestone3/00_src/flipflop.sv
+L0 1
+R10
+r1
+31
+Z22 !s90 -reportprogress|300|-work|work|-sv|C:/232/Cautrucmaytinh/milestone3/00_src/flipflop.sv|
+R12
+Z23 !s108 1715330009.096000
+Z24 !s107 C:/232/Cautrucmaytinh/milestone3/00_src/flipflop.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vforwarding_unit
+R1
+Z25 !s100 FSBH4?N^>XnQeghLfUQ[E0
+Z26 IXBl9bm?cG;nSmb8bV9hAT3
+Z27 Vg9l51>9h<RKg448;@W7g32
+Z28 !s105 forwarding_unit_sv_unit
+S1
+R6
+Z29 w1715166988
+Z30 8C:/232/Cautrucmaytinh/milestone3/00_src/forwarding_unit.sv
+Z31 FC:/232/Cautrucmaytinh/milestone3/00_src/forwarding_unit.sv
+L0 1
+R10
+r1
+31
+Z32 !s90 -reportprogress|300|-work|work|-sv|C:/232/Cautrucmaytinh/milestone3/00_src/forwarding_unit.sv|
+R12
+!i10b 1
+!s85 0
+Z33 !s108 1715330009.154000
+Z34 !s107 C:/232/Cautrucmaytinh/milestone3/00_src/forwarding_unit.sv|
+!s101 -O0
+vHazardDetector
+R1
+!i10b 1
+Z35 !s100 hSJJ^bBjodg74cWY6e;el3
+Z36 IkBEL]3nk3gATf:nc^<`<f1
+Z37 Vl[@0;dT9h74ZhBL1mkO>j1
+Z38 !s105 HazardDetector_sv_unit
+S1
+R6
+Z39 w1715170238
+Z40 8C:/232/Cautrucmaytinh/milestone3/00_src/HazardDetector.sv
+Z41 FC:/232/Cautrucmaytinh/milestone3/00_src/HazardDetector.sv
+L0 1
+R10
+r1
+!s85 0
+31
+!s108 1715330009.262000
+!s107 C:/232/Cautrucmaytinh/milestone3/00_src/HazardDetector.sv|
+Z42 !s90 -reportprogress|300|-work|work|-sv|C:/232/Cautrucmaytinh/milestone3/00_src/HazardDetector.sv|
+!s101 -O0
+R12
+Z43 n@hazard@detector

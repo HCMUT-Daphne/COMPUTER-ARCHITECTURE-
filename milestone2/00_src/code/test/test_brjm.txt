@@ -1,0 +1,9 @@
+addi x1, x1, 1276
+addi x2, x2, 20
+add x3, x1, x2
+sub x4, x1, x2
+jal x0, 12
+xor x5, x1, x2
+or x6, x1, x2
+and x7, x1, x2
+beq x0, x0, -12
